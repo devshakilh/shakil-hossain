@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/shakilla1/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-shakil-hossain-s//)[<img height="75" src="https://github.com/shakilla1/blob/main/images/icons/Facebook.png">](https://web.facebook.com/shakil11A)[<img height="75" src="https://github.com/shakilla1/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/shakil)
+[<p align="center"><img height="75" src="/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-shakil-hossain-s//)[<img height="75" src="/images/icons/Facebook.png">](https://web.facebook.com/shakil11A)[<img height="75" src="/images/icons/Twitter.png"> </p>](https://twitter.com/shakil)
 
 <br />
 
@@ -21,31 +21,29 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/shakilla1/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/shakilla1/blob/main/images/icons/css.png"/>
-<img src="https://github.com/shakilla1/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/shakilla1/blob/main/images/icons/python.png"/>
-<img src="https://github.com/shakilla1/blob/main/images/icons/c.png"/>
-<img src="https://github.com/shakilla1/blob/main/images/icons/cpp.png"/>
+<img src="/images/icons/HTML.png"/>
+<img src="/images/icons/css.png"/>
+<img src="/images/icons/JavaScript.png"/>
+
 </p>
 <p align="center">
-<img src="https://github.com/shakilla1/blob/main/images/icons/react.png"/>
-<img src="https://github.com/shakilla1/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/shakilla1/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/shakilla1/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/shakilla1/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/shakilla1/blob/main/images/icons/firebase.png"/>
+<img src="/images/icons/react.png"/>
+<img src="/images/icons/redux.png"/>
+<img src="/images/icons/sass.png"/>
+<img src="/images/icons/tailwind.png"/>
+<img src="/images/icons/Bootsrap.png"/>
+<img src="/images/icons/firebase.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/shakilla1/blob/main/images/icons/node.png"/>
-<img src="https://github.com/shakilla1/blob/main/images/icons/express.png"/>
-<img src="https://github.com/shakilla1/blob/main/images/icons/mongo.png"/>
+<img src="/images/icons/node.png"/>
+<img src="/images/icons/express.png"/>
+<img src="/images/icons/mongo.png"/>
 </p><br/>
 
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/shakil"><img align="right" src="https://github.com/shakilla1/blob/main/devcard.svg" width="200" alt="Shakil Hossai'n Dev Card"/></a>
+<a href="https://app.daily.dev/shakil"><img align="right" src="/devcard.svg" width="200" alt="Shakil Hossai'n Dev Card"/></a>
 </div>
 
 ### 🔭 I’m Looking for - a Jon.
