@@ -43,18 +43,18 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/shakil"><img align="right" src="/devcard.svg" width="200" alt="Shakil Hossai'n Dev Card"/></a>
+<a href="https://app.dailydev/shakil"><img align="right" src="/devcard.svg" width="200" alt="Shakil Hossai'n Dev Card"/></a>
 </div>
 
 ### 🔭 I’m Looking for - a Jon.
 
 ### 🌱 I’m exploring - Advance b.
 
-### 👯 I’m looking - To collaborate on open source projects.
+### 👯 I’m looking - To collaborate on open-source projects.
 
 ### 🤔 I’m trying - To help people learn web development.
 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### ⚡ Fun fact - I love making complex origami and can speak 5 languages.
 
 <br />
 
