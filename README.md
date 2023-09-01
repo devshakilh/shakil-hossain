@@ -46,15 +46,15 @@
 <a href="https://app.dailydev/shakil"><img align="right" src="/devcardsvg" width="200" alt="Shakil Hossai'n Dev Card"/></a>
 </div>
 
-### 🔭 I’m Looking for - a Jon.
+### 🔭 I’m Looking for - a Job.
 
-### 🌱 I’m exploring - Advance b.
+### 🌱 I’m exploring - AWS.
 
 ### 👯 I’m looking - To collaborate on open-source projects.
 
 ### 🤔 I’m trying - To help people learn web development.
 
-### ⚡ Fun fact - I love making complex origami and can speak 5 languages.
+### ⚡ Fun fact - I love making complex origami and can speak 2 languages.
 
 <br />
 
